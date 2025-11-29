@@ -245,10 +245,7 @@ footer {
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (354).png>)
+<img width="1901" height="880" alt="image" src="https://github.com/user-attachments/assets/b1d849fd-0c3e-4b31-93de-863d743f82c1" />
 
-![alt text](<Screenshot (355).png>)
-
-![alt text](<Screenshot (356).png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
